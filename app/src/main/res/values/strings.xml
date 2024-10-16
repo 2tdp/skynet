@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Base Project</string>
+
+    <string name="save">Save</string>
+    <string name="done">Done</string>
+    <string name="home">Home</string>
+    <string name="next">Next</string>
+    <string name="start">Start</string>
+    <string name="customize">Customize</string>
+    <string name="about">About</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
+    <string name="str_continue">Continue</string>
+    <string name="all">All</string>
+    <string name="del">Delete</string>
+    <string name="share">Share</string>
+    <string name="preview">Preview</string>
+    <string name="copy">Copy</string>
+    <string name="clear">Clear</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="theme">Theme</string>
+    <string name="error">Error</string>
+    <string name="confirm">Confirm</string>
+    <string name="apply">Apply</string>
+    <string name="empty">Empty!</string>
+    <string name="no_browser">No Browser</string>
+    <string name="unknown_error_occurred">An unknown error occurred</string>
+    <string name="my_gallery">My Gallery</string>
+    <string name="update_now">Update now</string>
+    <string name="des_update">Please, update app to new version to continue using</string>
+    <string name="title_update">New version available</string>
+    <string name="get_start">Get Started</string>
+    <string name="welcome_to">Welcome to \nBase Project</string>
+    <string name="go_to_setting">Go to setting</string>
+    <string name="no_internet">No Internet</string>
+    <string name="some_actions_arent_available_office_please_check_your_internet_connection">Some actions aren\'t available office. Please check your internet connection</string>
+
+    <string name="crop">Crop</string>
+    <string name="error_crop">Error Crop</string>
+    <string name="finish">Press 1 more time to exit</string>
+
+    <string name="channel_name">nmh_notify</string>
+    <string name="channel_description">This is notify</string>
+
+    <string name="this_action_can_contain_ads">This action may contain advertising</string>
+    <string name="deny_per">Permission is required to use this function</string>
+
+    <string name="about_title">DuoCamera v%1$s</string>
+    <string name="about_body"><![CDATA[
+        This project is <a href=\'https://github.com/iglaweb/DuoCamera\'>open source</a>, and is
+        licensed under Apache 2.0.
+       <br />
+  ]]></string>
+
+    <string name="setting">Setting</string>
+    <string name="policy">Policy</string>
+    //home
+    <string name="send">Send</string>
+    <string name="receive">Receive</string>
+    <string name="chats">Chats</string>
+    <string name="people">People</string>
+    <string name="calls">Calls</string>
+    <string name="search">Search</string>
+    <string name="des_home">Choose your friend or create new contact to \n start your conversation</string>
+    <string name="create_contact">Create Contact</string>
+
+    //onBoarding
+    <string name="title_onboarding_1">Share video calls</string>
+    <string name="des_onboarding_1">Share video calls with celebrities \n It\'s just a joke, but it\'s sure to wow your friends</string>
+    <string name="title_onboarding_2">Set the time</string>
+    <string name="des_onboarding_2">Set the time of incoming calls from anyone \n Build interesting unexpected situations</string>
+    <string name="title_onboarding_3">Send a message to anyone</string>
+    <string name="des_onboarding_3">Send a message to anyone. \n Surprise your friends with a conversation with your script</string>
+    <string name="title_onboarding_4">Send a message to anyone</string>
+    <string name="des_onboarding_4">Send a message to anyone. \n Surprise your friends with a conversation with your script</string>
+
+    //permission
+    <string name="permission">Permission</string>
+    <string name="permission_need">Permission Need</string>
+    <string name="des_permission">To Video Call Allow <b>Base Project</b> Access To Your Camera</string>
+    <string name="go">Go</string>
+    <string name="per_overlay">You need overlay permission to use this app</string>
+    <string name="deny_pers">Permissions is required to use this application</string>
+    <string name="permissions_have_been_granted">Permissions have been granted!</string>
+    <string name="skip">Skip</string>
+    <string name="str_notify">Notification</string>
+    <string name="str_record">Recorder</string>
+    <string name="str_camera">Camera</string>
+    <string name="str_draw">Draw overlay</string>
+    <string name="str_storage">Storage</string>
+    <string name="step_2">Step 3. Camera</string>
+    <string name="step_3">Step 4. Draw overlay</string>
+    <string name="step_4">Step 5. Storage</string>
+    <string name="step_1">Step 2. Recorder</string>
+    <string name="step_0">Step 1. Notification</string>
+    <string name="you_can_select">You can select: </string>
+    <string name="message_per_dialog">Click button Step to grant permission!</string>
+    <string name="message_per_granted">Permission have been granted!</string>
+
+    //settings
+    <string name="language">Language</string>
+    <string name="privacy">Privacy</string>
+    <string name="you_need_pick_a_language">You need pick a language</string>
+
+    //rate
+    <string name="rate">Rate</string>
+    <string name="may_be_later">Maybe later</string>
+    <string name="rate_thanks">Rate in app</string>
+    <string name="title_rate">How’s your experience so far?</string>
+    <string name="des_rate_0">We’d love to know!</string>
+    <string name="des_rate_1_2_3">Oh, no!</string>
+    <string name="des_rate_4_5">We like you too</string>
+    <string name="please_give_us_some_feedback">Please give us some feedback</string>
+    <string name="thanks_for_your_feedback">Thanks for your feedback</string>
+    <string name="thanks_for_rating">Thanks for rating!</string>
+
+    <string name="back_to_home">Back to home?</string>
+    <string name="we_will_return_you_to_the_previous_screen">We will return you to the \nprevious screen?</string>
+    <string name="stay">Stay</string>
+    <string name="exit">Exit</string>
+    <string name="exit_the_app">Exit the app?</string>
+    <string name="are_you_sure_to_exit_the_app">Are you sure to exit the app?</string>
+
+    <string name="click_to_step_by_step_for_require_permission">Click to step by step for require permission</string>
+</resources>

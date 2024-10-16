@@ -13,7 +13,7 @@ import android.view.View
 import android.view.animation.AccelerateDecelerateInterpolator
 import androidx.core.content.ContextCompat
 import com.nmh.base.project.R
-import com.nmh.base_lib.callback.StatusResultSwitch
+import com.nmh.skynet.callback.StatusResultSwitch
 
 class CustomSwitch : View {
 

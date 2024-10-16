@@ -11,7 +11,7 @@ import android.util.AttributeSet
 import android.view.MotionEvent
 import android.view.View
 import androidx.core.graphics.PathParser
-import com.nmh.base_lib.callback.OnSeekbarResult
+import com.nmh.skynet.callback.OnSeekbarResult
 
 
 class CustomSeekbarRating : View {

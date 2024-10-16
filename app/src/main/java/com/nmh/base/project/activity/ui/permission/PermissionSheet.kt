@@ -32,7 +32,7 @@ import com.nlbn.ads.util.AppOpenManager
 import com.nlbn.ads.util.ConsentHelper
 import com.nmh.base.project.NMHApp
 import com.nmh.base.project.R
-import com.nmh.base_lib.callback.ICallBackCheck
+import com.nmh.skynet.callback.ICallBackCheck
 import com.nmh.base.project.databinding.AdsNativeBotHorizontalMediaLeftBinding
 import com.nmh.base.project.databinding.BottomSheetDialogPermissionBinding
 import com.nmh.base.project.extensions.checkAllPerGrand

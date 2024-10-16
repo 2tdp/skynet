@@ -9,7 +9,7 @@ import android.util.AttributeSet
 import android.view.View
 import androidx.core.content.ContextCompat
 import com.nmh.base.project.R
-import com.nmh.base_lib.callback.ICallBackCheck
+import com.nmh.skynet.callback.ICallBackCheck
 
 class CustomLoadingSplash : View {
 

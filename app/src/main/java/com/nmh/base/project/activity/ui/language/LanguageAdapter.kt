@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.nmh.base.project.R
 import com.nmh.base.project.activity.data.db.LanguageModel
-import com.nmh.base_lib.callback.ICallBackItem
+import com.nmh.skynet.callback.ICallBackItem
 import com.nmh.base.project.databinding.ItemLanguageBinding
 import com.nmh.base.project.extensions.createBackground
 import com.nmh.base.project.extensions.setOnUnDoubleClickListener

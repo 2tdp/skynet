@@ -4,7 +4,7 @@ import android.view.Gravity
 import android.view.LayoutInflater
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
-import com.nmh.base_lib.callback.ICallBackCheck
+import com.nmh.skynet.callback.ICallBackCheck
 import com.nmh.base.project.extensions.setUpDialog
 import com.nmh.base.project.extensions.showToast
 import com.nmh.base.project.helpers.IS_RATED

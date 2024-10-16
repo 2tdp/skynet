@@ -30,7 +30,7 @@ class NMHApp : AdsApplication() {
 
         FirebaseApp.initializeApp(applicationContext)
 
-        com.nmh.base_lib.sharepref.DataLocalManager.init(applicationContext)
+        com.nmh.skynet.sharepref.DataLocalManager.init(applicationContext)
         DataLocalManager.init(applicationContext)
         ctx = applicationContext
         w = resources.displayMetrics.widthPixels / 100f

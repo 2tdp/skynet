@@ -11,7 +11,7 @@ import android.view.MotionEvent
 import android.view.View
 import androidx.core.content.ContextCompat
 import com.nmh.base.project.R
-import com.nmh.base_lib.callback.OnRangeSeekbarResult
+import com.nmh.skynet.callback.OnRangeSeekbarResult
 import com.nmh.base.project.utils.Utils
 
 class RangeSeekbar : View {

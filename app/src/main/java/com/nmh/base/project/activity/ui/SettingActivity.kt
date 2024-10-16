@@ -6,7 +6,7 @@ import androidx.activity.OnBackPressedCallback
 import com.nlbn.ads.util.AppOpenManager
 import com.nmh.base.project.activity.ui.base.BaseActivity
 import com.nmh.base.project.activity.ui.language.LanguageActivity
-import com.nmh.base_lib.callback.ICallBackCheck
+import com.nmh.skynet.callback.ICallBackCheck
 import com.nmh.base.project.databinding.ActivitySettingBinding
 import com.nmh.base.project.extensions.gone
 import com.nmh.base.project.extensions.setOnUnDoubleClickListener

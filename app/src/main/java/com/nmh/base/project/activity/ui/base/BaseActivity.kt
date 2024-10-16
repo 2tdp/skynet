@@ -33,7 +33,7 @@ import com.nlbn.ads.callback.NativeCallback
 import com.nlbn.ads.util.Admob
 import com.nlbn.ads.util.ConsentHelper
 import com.nmh.base.project.R
-import com.nmh.base_lib.callback.ICallBackCheck
+import com.nmh.skynet.callback.ICallBackCheck
 import com.nmh.base.project.databinding.AdsNativeBotHorizontalMediaLeftBinding
 import com.nmh.base.project.databinding.DialogBackToHomeBinding
 import com.nmh.base.project.databinding.DialogExitAppBinding

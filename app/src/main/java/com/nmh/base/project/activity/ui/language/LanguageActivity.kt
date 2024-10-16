@@ -20,7 +20,7 @@ import com.nmh.base.project.activity.ui.MainActivity
 import com.nmh.base.project.activity.ui.base.BaseActivity
 import com.nmh.base.project.activity.ui.base.UiState
 import com.nmh.base.project.activity.ui.onboarding.OnBoardingActivity
-import com.nmh.base_lib.callback.ICallBackItem
+import com.nmh.skynet.callback.ICallBackItem
 import com.nmh.base.project.databinding.ActivityLanguageBinding
 import com.nmh.base.project.databinding.AdsNativeBotBinding
 import com.nmh.base.project.databinding.AdsNativeBotHorizontalMediaLeftBinding

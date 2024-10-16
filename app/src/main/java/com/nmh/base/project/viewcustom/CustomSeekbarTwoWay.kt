@@ -9,7 +9,7 @@ import android.view.MotionEvent
 import android.view.View
 import androidx.core.content.ContextCompat
 import com.nmh.base.project.R
-import com.nmh.base_lib.callback.OnSeekbarResult
+import com.nmh.skynet.callback.OnSeekbarResult
 
 
 class CustomSeekbarTwoWay(context: Context) : View(context) {

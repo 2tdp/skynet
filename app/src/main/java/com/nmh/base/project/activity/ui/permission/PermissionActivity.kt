@@ -15,7 +15,7 @@ import com.nlbn.ads.util.ConsentHelper
 import com.nmh.base.project.R
 import com.nmh.base.project.activity.ui.WelcomeActivity
 import com.nmh.base.project.activity.ui.base.BaseActivity
-import com.nmh.base_lib.callback.StatusResultSwitch
+import com.nmh.skynet.callback.StatusResultSwitch
 import com.nmh.base.project.databinding.ActivityPermissionBinding
 import com.nmh.base.project.databinding.AdsNativeTopFullAdsBinding
 import com.nmh.base.project.extensions.gone

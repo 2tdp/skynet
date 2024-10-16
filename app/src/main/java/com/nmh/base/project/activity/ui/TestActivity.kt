@@ -3,7 +3,7 @@ package com.nmh.base.project.activity.ui
 import android.graphics.Color
 import androidx.core.content.ContextCompat
 import com.nmh.base.project.R
-import com.nmh.base_lib.ui.NMHSplashActivity
+import com.nmh.skynet.ui.NMHSplashActivity
 
 class TestActivity: NMHSplashActivity() {
 

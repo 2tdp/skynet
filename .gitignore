@@ -14,3 +14,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+./gradlew publishToMavenLocal
+./gradlew clean -Pgroup=com.github.2tdp -Pversion=v1.0.0 -xtest -xlint publishToMavenLocal

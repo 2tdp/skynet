@@ -1,4 +1,4 @@
-package com.nmh.base.project.activity.ui
+package com.nmh.base.project
 
 import android.graphics.Color
 import androidx.core.content.ContextCompat

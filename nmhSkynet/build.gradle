@@ -92,7 +92,7 @@ publishing {
                 from components.release // Xuất bản từ build type 'release'
             }
 
-            groupId = 'com.nmh.skynet'  // Thay bằng Group ID của bạn
+            groupId = 'com.github.2tdp.nmhSkynet'  // Thay bằng Group ID của bạn
             artifactId = 'nmhSkynet' // Tên thư viện của bạn
             version = '1.0.0'  // Phiên bản của thư viện
         }
